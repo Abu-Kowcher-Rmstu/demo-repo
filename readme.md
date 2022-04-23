@@ -31,6 +31,11 @@ used for creating new branch and switching to it.
 ## git checkout branchName 
 used for switching to a branch specified by the branchName.
 e.g., 
+
 git checkout main 
 
 it switches to main branch. 
+# git push -u origin "branchname" 
+to push commit in newly created branch . 
+# git branch -d "branchname" 
+used to delete a branch 
