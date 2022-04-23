@@ -39,3 +39,5 @@ it switches to main branch.
 to push commit in newly created branch . 
 # git branch -d "branchname" 
 used to delete a branch 
+## git pull -u origin "branchname" 
+used for pulling updates from host to local repository. 
